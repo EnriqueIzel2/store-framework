@@ -14,8 +14,9 @@
   },
   "rich-text": {
     "props": {
-      "text": "hello world",
-      "textPosition": "RIGHT"
+      "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
     }
   },
   "flex-layout.row": {
